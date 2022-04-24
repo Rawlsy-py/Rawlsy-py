@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rawlsy-py
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python, SQL and Machine Learning.
+- 👀 I’m interested in full stack development.
+- 🌱 I’m currently building full stack web apps using MEAN, Django, and Flask.
 - 📫 You can reach me through LinkedIn.
 
 <!---
