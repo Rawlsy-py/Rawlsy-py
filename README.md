@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rawlsy-py
 - 👀 I’m interested in data science and engineering analytics platforms.
-- 🌱 I’m currently building full stack web apps using MEAN, Django, and Flask to deploy my data analytics and machine learning to a wider userbase.
+- 🌱 I’m currently a full stack data scientist working on deploying analytics platforms for fintech companies with machine learning capabilities.
 - 📫 You can reach me through LinkedIn.
 
 <!---
