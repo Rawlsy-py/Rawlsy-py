@@ -1,6 +1,6 @@
 Hi 👋 My name is Chris
 ======================
-Machine Learning Engineer at Street UK
+Data Scientist at Street UK
 --------------------------------------
 I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to Software Engineering and Machine Learning in open banking with Street UK. I have 4 years experience with Python development focused deploying web based machine learning tools. I also have experience with full stack web development using PERN and Django+React to build business toolkits such as CRM, lending and Micro-finance Software, and customer portals.
 * 🌍  I'm based in London, United Kingdom
