@@ -2,7 +2,9 @@ Hi 👋 My name is Chris
 ======================
 Data Scientist at Street UK
 --------------------------------------
-I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to Software Engineering and Machine Learning in open banking with Street UK. I have 4 years experience with Python development focused deploying web based machine learning tools. I also have experience with full stack web development using PERN and Django+React to build business toolkits such as CRM, lending and Micro-finance Software, and customer portals.
+<p>I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering focused on Machine Learning applications for open banking with Street UK Foundation. I have experience with Python, including data science packages such as Numpy, Pandas, Seaborn, and machine learning with Sci-Kit Learn and Tensorflow.<br>
+I also have experience with full stack web development using Javascript tech stacks such as PERN, MERN, and Next.JS to build business toolkits such as CRM, lending and Micro-finance Software, and customer portals.</p>
+
 * 🌍  I'm based in London, United Kingdom
 * 🖥️  See my portfolio at [my website.](http://chrismitchell.xyz)
 * ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
@@ -30,9 +32,7 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/Rawlsy-py"><img src="https://github-readme-stats.vercel.app/api?username=Rawlsy-py&show_icons=true&hide=stars,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rawlsy-py's GitHub stats" /></a>
-
 <a href="http://www.github.com/Rawlsy-py"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rawlsy-py&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/Rawlsy-py" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawlsy-py&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
