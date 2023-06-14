@@ -1,24 +1,23 @@
 Hi 👋 My name is Chris
 ======================
 
-MSc Student at Uni of Wolverhampton
------------------------------------
+MSc Student at Univiersity of Wolverhampton
+-------------------------------------------
 
 I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering. I am currently studying my Masters of Science in Computer Science through the University of Wolverhampton. I have completed a variety of taught modules from project management to mobile application development. I am also participating in research into the AI and Machine Learning space via my dissertation. I am a keep software engineer, and wish to proceed to a career as a Machine Learning Engineer.
 
-*   🌍  I'm based in the Midlands, UK.
-*   🖥️  See my portfolio at [My Personal Website](http://chrismitchell.xyz)
-*   ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
-*   🚀  I'm currently working on [AI Research for my University Thesis](http://wlv.ac.uk)
-*   🧠  I'm learning Advanced technologies in Artificial Intelligence and Machine Learning
-*   🤝  I'm open to collaborating on AI and MLops Development and Deployment.
-*   ⚡  I'm a big fan of rugby and cricket.
+* 🌍  I'm based in the UK.
+* ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
+* 🚀  I'm currently working on [AI Research for my University Thesis](http://wlv.ac.uk)
+* 🧠  I'm learning Advanced technologies in Artificial Intelligence and Machine Learning
+* 🤝  I'm open to collaborating on AI and MLops Development and Deployment.
+* ⚡  I'm a big fan of rugby and cricket.
 
-<a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer">
-  
-<img src="https://img.shields.io/github/followers/Rawlsy-py?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/Rawlsy-py?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-### Skills 
+### Skills
+
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -28,6 +27,7 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -43,30 +43,39 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 <a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
+
+
 ### Socials
-                  
-<p align="left"><a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.linkedin.com/in/christopher-m-48045187" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-</p>
+
+<p align="left"> <a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/christopher-m-48045187" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/Rawlsy-py">
+<a href="http://www.github.com/Rawlsy-py"><img src="https://github-readme-stats.vercel.app/api?username=Rawlsy-py&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rawlsy-py's GitHub stats" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rawlsy-py&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rawlsy-py's GitHub stats" /></a>
+<a href="http://www.github.com/Rawlsy-py"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rawlsy-py&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="http://www.github.com/Rawlsy-py"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Rawlsy-py&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<br />
+<a href="https://github.com/Rawlsy-py" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rawlsy-py&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me 
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/Rawlsy-py/7CS074_Data_Mining" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rawlsy-py&repo=7CS074_Data_Mining&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rawlsy-py/7CS069_Web_Technologies" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rawlsy-py&repo=7CS069_Web_Technologies&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/Rawlsy-py/7CS085_Mobile_Applications" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rawlsy-py&repo=7CS085_Mobile_Applications&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Rawlsy-py/7CS080_Database_Design" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rawlsy-py&repo=7CS080_Database_Design&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+### Support Me
 
 <a href="https://www.buymeacoffee.com/rawlypy"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
