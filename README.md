@@ -10,7 +10,7 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 * ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
 * 🚀  I'm currently working on [AI Research for my University Thesis](http://wlv.ac.uk)
 * 🧠  I'm learning Advanced technologies in Artificial Intelligence and Machine Learning
-* 🤝  I'm open to collaborating on AI and MLops Development and Deployment.
+* 🤝  I'm open to collaborating on AI and MLOps Development and Deployment.
 * ⚡  I'm a big fan of rugby and cricket.
 
 <a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer"><img
