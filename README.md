@@ -13,6 +13,8 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 * 🤝  I'm open to collaborating on AI and MLOps Development and Deployment.
 * ⚡  I'm a big fan of rugby and cricket.
 
+Note this is my Personal and University account. For my work account please see [here](https://github.com/cmit7345).
+
 <a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Rawlsy-py?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
