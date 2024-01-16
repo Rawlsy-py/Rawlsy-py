@@ -8,7 +8,7 @@ I was originally trained as a Chartered Legal Executive in England, working in f
 
 *   🌍  I'm based in Warwickshire
 *   ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
-*   🚀  I'm currently working on [AI/ML Research at Uni of Wolverhampton](http://www.wlv.ac.uk/schools-and-institutes/faculty-of-science-and-engineering/school-of-engineering-computing-and-mathematical-sciences/mathematics-and-computer-science/)
+*   🚀  I'm currently researching [High Performance Computing with Rust](http://www.wlv.ac.uk/schools-and-institutes/faculty-of-science-and-engineering/school-of-engineering-computing-and-mathematical-sciences/mathematics-and-computer-science/)
 *   🧠  I'm learning Svelte and Rust for Full Stack Development of web applications at scale.
 *   🤝  I'm open to collaborating on AI/ML Research.
 *   ⚡  I'm a big fan of rugby and cricket.
