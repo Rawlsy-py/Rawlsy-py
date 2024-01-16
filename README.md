@@ -4,7 +4,7 @@ Hi 👋 My name is Chris
 MSc Student at Univiersity of Wolverhampton
 -------------------------------------------
 
-I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering. I am currently studying my Masters of Science in Computer Science through the University of Wolverhampton. I have completed a variety of taught modules from project management to mobile application development. I am also participating in research into the AI and Machine Learning space via my dissertation. Note this is my Personal and University account. For my work account please see [here](https://github.com/cmit7345).
+I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering. I am currently studying my Masters of Science in Computer Science through the University of Wolverhampton. I have completed a variety of taught modules from project management to mobile application development. I am also participating in research into high performance computing with rust. Note this is my Personal and University account. For my work account please see [here](https://github.com/cmit7345).
 
 * 🌍  I'm based in Warwickshire
 * ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
