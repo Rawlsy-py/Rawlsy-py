@@ -4,13 +4,13 @@ Hi 👋 My name is Chris
 MSc Student at Univiersity of Wolverhampton
 -------------------------------------------
 
-I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering. I am currently studying my Masters of Science in Computer Science through the University of Wolverhampton. I have completed a variety of taught modules from project management to mobile application development. I am also participating in research into high performance computing with rust. Note this is my Personal and University account. For my work account please see [here](https://github.com/cmit7345).
+I was originally trained as a Chartered Legal Executive in England, working in financial services before switching to a career in Software Engineering. I am currently studying my Masters of Science in Computer Science through the University of Wolverhampton. I have completed a variety of taught modules from project management to mobile application development. I am also participating in research into software engineering with 🦀 Rust 🦀. Note this is my Personal and University account. For my work account please see [here](https://github.com/cmit7345).
 
 * 🌍  I'm based in Warwickshire
 * ✉️  You can contact me at [chris@chrismitchell.xyz](mailto:chris@chrismitchell.xyz)
 * 🚀  I'm currently working on [researching High Performance Computing with Rust](http://www.wlv.ac.uk/schools-and-institutes/faculty-of-science-and-engineering/school-of-engineering-computing-and-mathematical-sciences/mathematics-and-computer-science/)
-* 🧠  I'm learning Full-Stack Development with Rust and Svelte for web applications at scale.
-* 🤝  I'm open to collaborating on anything rust.
+* 🧠  I'm learning Full-Stack Development with 🦀 Rust 🦀 and Svelte for web applications at scale.
+* 🤝  I'm open to collaborating on anything 🦀 Rust 🦀.
 * ⚡  I'm a big fan of rugby and cricket.
 
 <a href="https://www.github.com/Rawlsy-py" target="_blank" rel="noreferrer"><img
